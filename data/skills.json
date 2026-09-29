@@ -1,0 +1,411 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Languages",
+      "aliases": ["py", "python3", "python 3"],
+      "learning_suggestions": [
+        "Python Advanced Data Structures & OOP",
+        "Asynchronous Programming with Asyncio",
+        "Type Hinting & Pydantic Validation",
+        "Unit Testing with PyTest & Mocking"
+      ]
+    },
+    {
+      "name": "Java",
+      "category": "Languages",
+      "aliases": ["core java", "java 8", "java 11", "java 17", "java 21"],
+      "learning_suggestions": [
+        "Modern Java Streams & Lambda Expressions",
+        "JVM Concurrency & Multithreading",
+        "Spring Boot Enterprise Architecture",
+        "Microservices with Spring Cloud"
+      ]
+    },
+    {
+      "name": "C",
+      "category": "Languages",
+      "aliases": ["c language", "ansi c"],
+      "learning_suggestions": [
+        "Pointers & Low-level Memory Management",
+        "Dynamic Allocation with malloc/free",
+        "POSIX System Calls & File I/O",
+        "Data Structures implementation in C"
+      ]
+    },
+    {
+      "name": "C++",
+      "category": "Languages",
+      "aliases": ["cpp", "cplusplus", "c/c++"],
+      "learning_suggestions": [
+        "Modern C++ (C++17/20) Smart Pointers & RAII",
+        "Standard Template Library (STL) Mastery",
+        "Object-Oriented Design & Polymorphism",
+        "Multithreading & Concurrency in C++"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "category": "Languages",
+      "aliases": ["js", "es6", "vanilla js", "ecmascript"],
+      "learning_suggestions": [
+        "Deep Dive into Event Loop & Async/Await",
+        "ES6+ Modern Syntax & Functional Patterns",
+        "DOM Manipulation & Browser Storage APIs",
+        "Node.js Runtime & NPM ecosystem"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "category": "Languages",
+      "aliases": ["ts"],
+      "learning_suggestions": [
+        "Generics, Utility Types & Type Narrowing",
+        "Interface vs Type & Union Discrimination",
+        "Configuring tsconfig for Enterprise Monorepos",
+        "TypeScript with React & Node.js"
+      ]
+    },
+    {
+      "name": "React",
+      "category": "Frontend",
+      "aliases": ["reactjs", "react.js", "react js"],
+      "learning_suggestions": [
+        "Modern React Hooks (useEffect, useMemo, useCallback)",
+        "State Management with Zustand or Redux Toolkit",
+        "Performance Profiling & Virtual DOM Optimization",
+        "Full-stack React with Next.js App Router"
+      ]
+    },
+    {
+      "name": "Angular",
+      "category": "Frontend",
+      "aliases": ["angularjs", "angular 2+", "angular.js"],
+      "learning_suggestions": [
+        "Angular Signals & Reactive State",
+        "RxJS Observables & Reactive Programming",
+        "Dependency Injection & Component Lifecycle",
+        "Angular Routing & Route Guards"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "aliases": ["node", "nodejs", "node js"],
+      "learning_suggestions": [
+        "Event-driven Architecture & Streams",
+        "Building REST APIs with Express & Fastify",
+        "Authentication with JWT & OAuth 2.0",
+        "Clustering & Production Deployment"
+      ]
+    },
+    {
+      "name": "Django",
+      "category": "Backend",
+      "aliases": ["django rest framework", "drf"],
+      "learning_suggestions": [
+        "Django ORM Optimization & QuerySet profiling",
+        "Django REST Framework Serializers & ViewSets",
+        "Authentication, Permissions & Token Auth",
+        "Celery Background Task Queues with Redis"
+      ]
+    },
+    {
+      "name": "Flask",
+      "category": "Backend",
+      "aliases": ["flask framework"],
+      "learning_suggestions": [
+        "Application Factories & Blueprints",
+        "SQLAlchemy Integration & Migrations with Alembic",
+        "JWT Authentication & Error Handling",
+        "Dockerizing Flask Microservices"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "category": "Backend",
+      "aliases": ["fast-api", "fastapi framework"],
+      "learning_suggestions": [
+        "Pydantic V2 Models & Schema Validation",
+        "Async Endpoints & Background Tasks",
+        "Dependency Injection System in FastAPI",
+        "Interactive OpenAPI/Swagger Documentation"
+      ]
+    },
+    {
+      "name": "SQL",
+      "category": "Database",
+      "aliases": ["structured query language", "relational database", "rdbms"],
+      "learning_suggestions": [
+        "Complex Joins (Inner, Left, Cross, Self)",
+        "Window Functions & CTEs (Common Table Expressions)",
+        "Indexing Strategies (B-Tree, Hash, Composite)",
+        "Transaction ACID Properties & Query Optimization"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "category": "Database",
+      "aliases": ["my-sql"],
+      "learning_suggestions": [
+        "InnoDB Storage Engine & Locking Mechanics",
+        "EXPLAIN Query Plan Analysis",
+        "Replication & Connection Pooling",
+        "Database Migrations & Schema Versioning"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Database",
+      "aliases": ["postgres", "pgsql", "psql"],
+      "learning_suggestions": [
+        "Advanced PostgreSQL Types (JSONB, Arrays, UUID)",
+        "Postgres Indexing (GIN, GiST, BRIN)",
+        "Vacuuming, Analyze & Query Performance Tuning",
+        "Full-Text Search in PostgreSQL"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "category": "Database",
+      "aliases": ["mongo", "nosql mongodb"],
+      "learning_suggestions": [
+        "Document Modeling & Schema Design Patterns",
+        "Aggregation Pipeline Mastery ($lookup, $group, $facet)",
+        "Replica Sets & Sharding Concepts",
+        "Mongoose ORM / PyMongo Driver Best Practices"
+      ]
+    },
+    {
+      "name": "Git",
+      "category": "Cloud/DevOps",
+      "aliases": ["github", "gitlab", "git version control", "version control"],
+      "learning_suggestions": [
+        "Branching Strategies (GitFlow, Trunk-based Development)",
+        "Interactive Rebase, Cherry-pick & Merge Conflict Resolution",
+        "Git Hooks & Automated Commit Linting",
+        "GitHub Actions CI/CD Pipeline Automation"
+      ]
+    },
+    {
+      "name": "Docker",
+      "category": "Cloud/DevOps",
+      "aliases": ["containerization", "containers", "dockerfile", "docker compose"],
+      "learning_suggestions": [
+        "Docker Fundamentals & Core Architecture",
+        "Writing Multi-stage Dockerfiles for Minimal Images",
+        "Multi-container Orchestration with Docker Compose",
+        "Container Networking, Volumes & Security Scanning"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "category": "Cloud/DevOps",
+      "aliases": ["k8s", "k8"],
+      "learning_suggestions": [
+        "K8s Core Architecture: Pods, Deployments & Services",
+        "ConfigMaps, Secrets & Ingress Controllers",
+        "Horizontal Pod Autoscaling (HPA) & Resource Limits",
+        "Helm Charts & GitOps Deployment with ArgoCD"
+      ]
+    },
+    {
+      "name": "AWS",
+      "category": "Cloud/DevOps",
+      "aliases": ["amazon web services", "amazon aws"],
+      "learning_suggestions": [
+        "AWS Cloud Fundamentals & IAM Least Privilege",
+        "Compute with EC2, Elastic Beanstalk & AWS Lambda",
+        "Storage & Databases with S3, RDS & DynamoDB",
+        "VPC Networking, Security Groups & CloudWatch Monitoring"
+      ]
+    },
+    {
+      "name": "Azure",
+      "category": "Cloud/DevOps",
+      "aliases": ["microsoft azure", "azure cloud"],
+      "learning_suggestions": [
+        "Azure Core Services & Resource Groups",
+        "Azure App Services & Azure Functions (Serverless)",
+        "Azure Blob Storage & Azure SQL Database",
+        "Azure Active Directory (Entra ID) & RBAC"
+      ]
+    },
+    {
+      "name": "GCP",
+      "category": "Cloud/DevOps",
+      "aliases": ["google cloud", "google cloud platform", "google cloud storage"],
+      "learning_suggestions": [
+        "Google Cloud Fundamentals & IAM Roles",
+        "Compute Engine & Cloud Run Container Hosting",
+        "Cloud Storage & BigQuery Analytics",
+        "Cloud Monitoring, Logging & VPC Networks"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "category": "AI/ML",
+      "aliases": ["ml", "machine-learning"],
+      "learning_suggestions": [
+        "Supervised vs Unsupervised Learning Paradigms",
+        "Feature Engineering & Cross-Validation Techniques",
+        "Regression, Classification & Tree-based Ensembles (XGBoost)",
+        "Model Evaluation Metrics (Precision, Recall, ROC-AUC)"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "category": "AI/ML",
+      "aliases": ["dl", "neural networks", "ann", "cnn", "rnn"],
+      "learning_suggestions": [
+        "Feedforward Neural Networks & Backpropagation",
+        "Convolutional Neural Networks (CNNs) for Computer Vision",
+        "Recurrent Architectures (LSTM, GRU) & Transformers",
+        "Regularization (Dropout, Batch Normalization, Adam Optimizer)"
+      ]
+    },
+    {
+      "name": "NLP",
+      "category": "AI/ML",
+      "aliases": ["natural language processing", "text processing"],
+      "learning_suggestions": [
+        "Tokenization, Stemming, Lemmatization & TF-IDF",
+        "Word Embeddings (Word2Vec, GloVe)",
+        "Transformer Architectures (BERT, RoBERTa, LLMs)",
+        "HuggingFace Transformers Library & Fine-tuning"
+      ]
+    },
+    {
+      "name": "TensorFlow",
+      "category": "AI/ML",
+      "aliases": ["tf", "keras"],
+      "learning_suggestions": [
+        "TensorFlow 2.x & Keras Functional API",
+        "tf.data Pipelines for High-throughput Feeding",
+        "Custom Training Loops & GradientTape",
+        "Exporting Models with SavedModel & TF-Lite"
+      ]
+    },
+    {
+      "name": "PyTorch",
+      "category": "AI/ML",
+      "aliases": ["torch"],
+      "learning_suggestions": [
+        "PyTorch Tensors & Autograd Mechanism",
+        "Building Custom nn.Module Architectures",
+        "Dataset & DataLoader Pipelines",
+        "PyTorch Lightning for Clean Model Training"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "category": "AI/ML",
+      "aliases": ["pd"],
+      "learning_suggestions": [
+        "DataFrame Indexing, Filtering & Slicing Mastery",
+        "GroupBy Aggregations & Pivot Tables",
+        "Handling Missing Data & Time-series Manipulation",
+        "Performance Optimization with Vectorization"
+      ]
+    },
+    {
+      "name": "NumPy",
+      "category": "AI/ML",
+      "aliases": ["np"],
+      "learning_suggestions": [
+        "N-dimensional Array Creation & Memory Strides",
+        "Broadcasting Rules & Vectorized Arithmetic",
+        "Linear Algebra Operations (Matrix Multiplications, Eigenvalues)",
+        "Random Sampling & Statistical Functions"
+      ]
+    },
+    {
+      "name": "Scikit-learn",
+      "category": "AI/ML",
+      "aliases": ["sklearn", "scikit learn"],
+      "learning_suggestions": [
+        "Pipeline & ColumnTransformer Workflow",
+        "Hyperparameter Tuning with GridSearchCV",
+        "Model Selection & Confusion Matrix Analysis",
+        "Clustering with K-Means & Dimensionality Reduction (PCA)"
+      ]
+    },
+    {
+      "name": "REST API",
+      "category": "Backend",
+      "aliases": ["rest", "restful api", "restful apis", "rest apis", "restful"],
+      "learning_suggestions": [
+        "HTTP Methods (GET, POST, PUT, PATCH, DELETE) & Status Codes",
+        "REST Architectural Constraints & Resource Naming",
+        "Pagination, Filtering & Sorting Best Practices",
+        "API Security (Rate Limiting, CORS, Bearer Tokens)"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "category": "Backend",
+      "aliases": ["graph-ql", "apollo graphql"],
+      "learning_suggestions": [
+        "Schema Definition Language (SDL) Types & Queries",
+        "Resolvers & Solving the N+1 Problem with Dataloader",
+        "GraphQL Mutations & Subscriptions",
+        "Apollo Client & Server Architecture"
+      ]
+    },
+    {
+      "name": "HTML",
+      "category": "Frontend",
+      "aliases": ["html5"],
+      "learning_suggestions": [
+        "Semantic HTML5 Elements (<article>, <section>, <nav>)",
+        "Web Accessibility (WCAG standards & ARIA roles)",
+        "Form Validation & Custom Input Types",
+        "SEO Meta Tags & Open Graph Protocol"
+      ]
+    },
+    {
+      "name": "CSS",
+      "category": "Frontend",
+      "aliases": ["css3", "stylesheets", "tailwind", "tailwindcss", "sass", "scss"],
+      "learning_suggestions": [
+        "Flexbox & CSS Grid Modern Responsive Layouts",
+        "CSS Custom Properties (Variables) & Theming",
+        "Animations, Transitions & GPU Acceleration",
+        "Tailwind CSS Utility-first Architecture"
+      ]
+    },
+    {
+      "name": "Linux",
+      "category": "Cloud/DevOps",
+      "aliases": ["unix", "bash", "shell scripting", "ubuntu"],
+      "learning_suggestions": [
+        "Bash Scripting & Shell Pipeline Automation",
+        "File System Permissions & User/Group Management",
+        "Process Management with systemd, ps, top & kill",
+        "Network Diagnostics with curl, netstat & SSH Keys"
+      ]
+    },
+    {
+      "name": "Data Structures",
+      "category": "Core CS",
+      "aliases": ["dsa", "data-structures"],
+      "learning_suggestions": [
+        "Arrays, Linked Lists, Stacks & Queues",
+        "Binary Trees, BSTs, Heaps & Tries",
+        "Hash Tables & Hash Collision Resolution",
+        "Graphs (Adjacency List/Matrix Representation)"
+      ]
+    },
+    {
+      "name": "Algorithms",
+      "category": "Core CS",
+      "aliases": ["algo", "algorithmic problem solving"],
+      "learning_suggestions": [
+        "Asymptotic Analysis (Big-O, Big-Omega, Space Complexity)",
+        "Sorting & Binary Search Algorithms",
+        "Graph Traversal: BFS, DFS, Dijkstra & Shortest Path",
+        "Dynamic Programming & Greedy Algorithms"
+      ]
+    }
+  ]
+}

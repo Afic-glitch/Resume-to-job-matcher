@@ -1,0 +1,17 @@
+Python Backend Developer
+Nexora AI Solutions
+Location: Remote / Hybrid
+
+We are looking for a skilled Python Backend Developer to design, develop, and maintain high-performance microservices and REST APIs.
+
+Key Responsibilities:
+- Design robust backend architectures using Python, FastAPI, and PostgreSQL.
+- Maintain source code with Git and establish automated CI/CD pipelines.
+- Containerize application services using Docker and orchestrate workloads.
+- Integrate cloud infrastructure on AWS (EC2, S3, RDS).
+
+Requirements:
+- Strong proficiency in Python, SQL, REST API, Git, Docker, and AWS.
+- 1-2 years of relevant hands-on software development experience.
+- B.Tech/B.E. in Computer Science, Information Technology, or related technical discipline.
+- Knowledge of Kubernetes and Azure is a plus.

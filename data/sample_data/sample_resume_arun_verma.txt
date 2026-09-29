@@ -1,0 +1,13 @@
+Arun Verma
+arun.verma@example.com | +91 9876543210 | Male
+New Delhi, India
+
+Summary:
+Full-stack Python Backend Engineer with 2 years of experience developing microservices.
+Skills: Python, SQL, REST API, Git, Docker, AWS, PostgreSQL, Linux
+Education: B.Tech Computer Science, Tier-1 Institute
+Experience: 2 years as Junior Software Engineer at CloudCorp. Built RESTful microservices using FastAPI and SQLAlchemy. Deployed containers using Docker on AWS EC2.
+Projects:
+- Microservices E-Commerce API: Built high-throughput REST APIs using Python & PostgreSQL.
+- Cloud Monitoring Agent: Dockerized telemetry service deployed on AWS EC2.
+Certifications: AWS Certified Cloud Practitioner

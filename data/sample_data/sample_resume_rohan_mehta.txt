@@ -1,0 +1,10 @@
+Rohan Mehta
+rohan.m@example.com | +91 9777888999
+Education: B.Tech Information Technology
+Summary: Backend software developer with 2 years of experience in containerized backends.
+Skills: Python, SQL, Docker, Git, Flask, MongoDB, Linux
+Experience: 2 years in software development focusing on containerized database backends.
+Projects:
+- Data Ingestion Service: Flask microservice packaged with Docker Compose.
+- MongoDB Aggregation Engine: SQL to NoSQL data migration pipeline.
+Certifications: Docker Certified Associate
