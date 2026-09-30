@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rolldown/binding-darwin-x64": "^1.2.11",
     "clsx": "^2.1.1",
     "lucide-react": "^1.48.0",
     "react": "^19.2.8",
@@ -18,7 +17,6 @@
     "tailwind-merge": "^3.7.0"
   },
   "devDependencies": {
-    "@oxlint/binding-darwin-x64": "^1.86.0",
     "@types/node": "^24.13.3",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
